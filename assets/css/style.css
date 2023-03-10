@@ -160,3 +160,7 @@ margin-bottom: 15px;
 p{
     color: #333;
 }
+.abt li{
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
