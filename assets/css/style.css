@@ -124,6 +124,21 @@ margin-bottom: 15px;
     color: #fff ;
     font-weight: 300;
 }
+.ContactInfo.lang .percent{
+    position: relative;
+    width: 100%;
+    height: 6px;
+    background: #081921;
+    display: block;
+    margin-top: 5px;
+}
+.ContactInfo.lang .percent div{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: #ffc0cb;
+}
 .container .right-side 
 {
     position: relative;
